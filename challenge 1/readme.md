@@ -11,4 +11,6 @@
 Les couleurs :<br/>
     - le bleu #2c2f83<br/>
     - le bisque #feeee3
-    
+
+Les fonts :<br/>
+    - Arial, Helvetica, sans-serif
