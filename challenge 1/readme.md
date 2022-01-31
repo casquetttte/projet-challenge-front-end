@@ -8,7 +8,7 @@
 *Pour pimenter un peu le défi, j'ai aussi décidé de réaliser du SCSS au lieu du CSS (une première pour moi).*
 
 #### Les infos utiles pour ce challenge :
-Les couleurs :
-    - le bleu #2c2f83
+Les couleurs :<br/>
+    - le bleu #2c2f83<br/>
     - le bisque #feeee3
     
