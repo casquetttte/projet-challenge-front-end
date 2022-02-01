@@ -11,7 +11,7 @@
     - le bisque #feeee3
 
 <ins>Les fonts :</ins><br/>
-    - Arial, Helvetica, sans-serif
-<br/><br/>
+    - Arial, Helvetica, sans-serif<br/>
+
 #### Mon exemple : https://kibonara.wixsite.com/challenge1
 ![exemple base](https://user-images.githubusercontent.com/39205962/152000964-119cc89f-872f-4f6a-95cf-4e1e22ebc9de.png)
